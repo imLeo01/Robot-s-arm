@@ -19,8 +19,6 @@ This project is the final assignment for the *Robotic 1* course. It involves bui
 - Acrylic or 3D printed SCARA frame
 - Breadboard, jumper wires, 5V power supply
 
-Detailed components list: [`hardware/component_list.md`](hardware/component_list.md)
-
 
 ## 💻 Software & Tools
 
